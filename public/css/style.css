@@ -1,0 +1,105 @@
+
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile{
+  margin-top: 100px;
+}
+
+.mountain{
+  padding-top: 50px;
+}
+
+body{
+  background-color: #E4F9F5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color: #11999E;
+}
+a:hover{
+  color: #084c4f;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.me{
+  border-radius: 100%;
+  margin: 50px;
+  max-width: 25%;
+  height: auto;
+}
+.girl-gif{
+  max-width: 100%;
+  height: auto;
+}
+.couple{
+  max-width: 100%;
+  height: auto;
+}
+.TitleHobby{
+  margin: 60px;
+}
+.hobby{
+ height: 300px;
+ /* position: relative;
+ left: 50px; */
+ margin: 0 20px;
+
+}
+.skill-row{
+  display: inline-block;
+}
+.paragraph-text{
+  text-align: left;
+}
+hr{
+  background-color:#bbbbbb;
+
+}
+.girl-pic{
+  height: 300px;
+  width: 450px;
+}
+.work{
+  height: 350px;
+  width: 500px;
+  margin: 0 50px;
+}
+.blocks{
+  text-align: left;
+  font-size:20px ;
+}
+
+p{
+  font-size: 20px ;
+}
